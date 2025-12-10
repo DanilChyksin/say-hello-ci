@@ -1,1 +1,1 @@
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+[![test-project](https://github.com/DanilChyksin/say-hello-ci/actions/workflows/test.yml/badge.svg)](https://github.com/DanilChyksin/say-hello-ci/actions/workflows/test.yml)
