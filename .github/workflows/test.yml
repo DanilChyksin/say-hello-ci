@@ -1,0 +1,8 @@
+name: test-project
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      -users: actions/checkout@v4
+      -run: make say-hello
